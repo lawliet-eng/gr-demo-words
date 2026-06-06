@@ -45,6 +45,51 @@
       "tags": [],
       "image": "images/24093c264df8.jpg",
       "audio": "audio/24093c264df8.mp3"
+    },
+    {
+      "original": "ακτή",
+      "translation": "берег, побережье",
+      "mnemonic": "Созвучие: «аква» — вода; ακτή начинается на «ак-»: берег рядом с водой.\nКак запомнить: «ак-» ведёт к воде, а ακτή — к линии у воды.",
+      "imagePrompt": "Educational illustration of a calm coastline with sea meeting a sandy shore, simple background, clean composition, no text.",
+      "tags": [],
+      "image": "images/aeafa09a07a7.jpg",
+      "audio": "audio/aeafa09a07a7.mp3"
+    },
+    {
+      "original": "ακτογραμμή",
+      "translation": "береговая линия",
+      "mnemonic": "Этимология: ακτή — берег, γραμμή — линия; вместе «линия берега».\nОбраз: на карте море и сушу разделяет чёткая извилистая линия берега.\nКак запомнить: «акто-» ведёт к берегу, «-грамми» — к линии.",
+      "imagePrompt": "Educational illustration of a coastline as a clear curved line separating blue sea and sandy land, simple background, clean composition, no text.",
+      "tags": [],
+      "image": "images/df09ee6d37ec.jpg",
+      "audio": "audio/df09ee6d37ec.mp3"
+    },
+    {
+      "original": "αλμυρός",
+      "translation": "солёный",
+      "mnemonic": "Созвучие: ал-мир-ос — весь мир осыпали солью, всё стало солёным.\nОбраз: земной шар покрыт крупной солью.",
+      "imagePrompt": "Educational illustration of a globe covered with coarse salt crystals, simple background, clean composition, no text.",
+      "tags": [],
+      "image": "images/b2208902c69a.jpg",
+      "audio": "audio/b2208902c69a.mp3"
+    },
+    {
+      "original": "αλυκή",
+      "translation": "соляной промысел",
+      "mnemonic": "Этимология: αλ- связан с солью: αλάτι — «соль», halite — каменная соль.\nОбраз: море испаряется в мелких бассейнах, остаются белые горки соли.\nКак запомнить: αλ- ведёт к соли, а αλυκή — место, где её добывают.",
+      "imagePrompt": "Educational illustration of shallow seaside salt evaporation ponds under the sun, with white piles of sea salt left behind, simple background, clean composition, no text.",
+      "tags": [],
+      "image": "images/5fc4895df158.jpg",
+      "audio": "audio/5fc4895df158.mp3"
+    },
+    {
+      "original": "αλυσίδα",
+      "translation": "цепь",
+      "mnemonic": "Созвучие: «Алиса» ≈ αλυσίδα; Алиса держит длинную цепь.\nОбраз: Девочка с именем Алиса тянет металлическую цепь.\nКак запомнить: «Алиса» приводит к образу с цепью.",
+      "imagePrompt": "Educational illustration, simple background, clean composition: a cartoon girl holding a long metal chain in her hands, no text.",
+      "tags": [],
+      "image": "images/49631312dcba.jpg",
+      "audio": "audio/49631312dcba.mp3"
     }
   ]
 }
