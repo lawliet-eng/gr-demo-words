@@ -90,6 +90,30 @@
       "tags": [],
       "image": "images/49631312dcba.jpg",
       "audio": "audio/49631312dcba.mp3"
+    },
+    {
+      "original": "αμμώδης",
+      "translation": "песчаный",
+      "mnemonic": "Этимология: άμμος — песок; -ώδης — «-истый, похожий на».\nОбраз: берег и дорожка полностью покрыты рыхлым песком.\nКак запомнить: αμμ- ведёт к άμμος, а всё слово — к признаку «песчаный».",
+      "imagePrompt": "Educational illustration of a sandy beach where the shore, path, and small dunes are covered with loose sand, simple background, clean composition, no text.",
+      "tags": [
+        "природа",
+        "география"
+      ],
+      "image": "images/c6b400609d28.jpg",
+      "audio": "audio/c6b400609d28.mp3"
+    },
+    {
+      "original": "αμπελώνας",
+      "translation": "виноградник",
+      "mnemonic": "Этимология: αμπέλι — виноградная лоза; -ώνας — место/участок.\nКак запомнить: αμπελώνας — участок, где растут виноградные лозы.",
+      "imagePrompt": "Educational illustration of a sunny vineyard with neat rows of grapevines full of grapes, simple background, clean composition, no text.",
+      "tags": [
+        "природа",
+        "география"
+      ],
+      "image": "images/05a6e29394bf.jpg",
+      "audio": "audio/05a6e29394bf.mp3"
     }
   ]
 }
