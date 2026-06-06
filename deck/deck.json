@@ -147,17 +147,6 @@
       "audio": "audio/d1adc7b9d242.mp3"
     },
     {
-      "original": "ανατολικά",
-      "translation": "на восток, на востоке; восточный",
-      "mnemonic": "Этимология: ανατολή — «восход»; восток — сторона, где восходит солнце.\nСозвучие: «Анатолий» близко к ανατολικά; имя связано с греческим «восточный».\nКак запомнить: ανατολικά связывай с восходом солнца и направлением на восток.",
-      "imagePrompt": "Educational illustration of a sunrise on the eastern horizon, with a simple compass showing the east direction visually but without any letters or text, clean composition, simple background.",
-      "tags": [
-        "география"
-      ],
-      "image": "images/b0179bde1454.jpg",
-      "audio": "audio/b0179bde1454.mp3"
-    },
-    {
       "original": "ανατολικός",
       "translation": "восточный",
       "mnemonic": "Этимология: ανατολή — «восток, восход»; ανατολικός — «восточный».\nСозвучие: «анатолийский» — Анатолия лежит к востоку от Греции.\nКак запомнить: анато- связывай с восходом солнца на востоке.",
@@ -200,17 +189,6 @@
       ],
       "image": "images/776795125852.jpg",
       "audio": "audio/776795125852.mp3"
-    },
-    {
-      "original": "βόρεια",
-      "translation": "север; на севере",
-      "mnemonic": "Этимология: Борей — северный ветер; βόρεια связано с севером.\nКак запомнить: βόρεια → Борей → северный ветер → север.",
-      "imagePrompt": "Educational illustration of a compass pointing north with cold wind and snowy landscape in the northern direction, simple background, clean composition, no text.",
-      "tags": [
-        "география"
-      ],
-      "image": "images/dfe461c29f91.jpg",
-      "audio": "audio/dfe461c29f91.mp3"
     },
     {
       "original": "βόρειος",
@@ -376,17 +354,6 @@
       ],
       "image": "images/3e2ee98a852d.jpg",
       "audio": "audio/3e2ee98a852d.mp3"
-    },
-    {
-      "original": "δυτικά",
-      "translation": "на западе; к западу",
-      "mnemonic": "Этимология: δυτικά связано с δύση — заходом солнца.\nОбраз: солнце заходит за горизонт — это западная сторона.\nКак запомнить: δυτικά ведёт к закату, а закат указывает на запад.",
-      "imagePrompt": "A simple educational illustration of the sun setting behind a flat horizon, warm orange sky, minimal landscape, clean composition, simple background, no text.",
-      "tags": [
-        "география"
-      ],
-      "image": "images/6096e2ed4692.jpg",
-      "audio": "audio/6096e2ed4692.mp3"
     },
     {
       "original": "δυτικός",
@@ -829,17 +796,6 @@
       "audio": "audio/a42d4ee5c021.mp3"
     },
     {
-      "original": "κυριότερος",
-      "translation": "более важный, главный",
-      "mnemonic": "Этимология: κύριος — господин, главный; -ότερος — сравнительная степень: «более главный».\nКак запомнить: κυριότερος = κύριος + «более» → более важный, главный.",
-      "imagePrompt": "Educational illustration of two simple documents on a desk, one larger and highlighted with a star to show it is more important, simple background, clean composition, no text.",
-      "tags": [
-        "география"
-      ],
-      "image": "images/1db28b1ad4f5.jpg",
-      "audio": "audio/1db28b1ad4f5.mp3"
-    },
-    {
       "original": "κυρίως",
       "translation": "главным образом",
       "mnemonic": "Этимология: κύριος — главный, господин; -ως делает наречие: «главным образом».\nКак запомнить: κυρίως опирается на κύριος — главный → главным образом.",
@@ -895,28 +851,6 @@
       "audio": "audio/c2bd5468aaa6.mp3"
     },
     {
-      "original": "βρίσκομαι",
-      "translation": "я нахожусь",
-      "mnemonic": "Этимология: βρίσκω — «нахожу»; βρίσκομαι — «нахожусь».\nКак запомнить: общий корень βρίσκ- связывает «найти» и «находиться».",
-      "imagePrompt": "Educational illustration of a simple character standing at a marked spot on a map, showing the idea of being located somewhere, simple background, clean composition, no text.",
-      "tags": [
-        "география"
-      ],
-      "image": "images/b425b32be256.jpg",
-      "audio": "audio/b425b32be256.mp3"
-    },
-    {
-      "original": "δέχομαι",
-      "translation": "я принимаю, получаю",
-      "mnemonic": "Созвучие: δέχομαι ≈ «дЭхо мне»: эхо принимает звук и возвращает его мне.\nОбраз: В горах крик летит в скалу, и эхо словно принимает его.\nКак запомнить: «эхо» внутри слова ведёт к идее принять/получить сигнал.",
-      "imagePrompt": "Educational illustration, simple background, clean composition: in the mountains, a simple cartoon person shouts toward a cliff, visible sound waves travel to the rock and bounce back as an echo. No text.",
-      "tags": [
-        "география"
-      ],
-      "image": "images/f02a4f1258de.jpg",
-      "audio": "audio/f02a4f1258de.mp3"
-    },
-    {
       "original": "εναλλάσσομαι",
       "translation": "сменяться, чередоваться",
       "mnemonic": "Этимология: άλλος = «другой»; αλλάσσω = «меняю». εναλλάσσομαι — сменяюсь с другим.\nОбраз: два человека по очереди садятся на один стул: один встал, другой сел.\nКак запомнить: «другой + менять» ведёт к «чередоваться, сменяться».",
@@ -937,6 +871,28 @@
       ],
       "image": "images/7c2287550398.jpg",
       "audio": "audio/7c2287550398.mp3"
+    },
+    {
+      "original": "βρίσκομαι",
+      "translation": "находиться",
+      "mnemonic": "Созвучие: «в риске мы» — мы находимся в рискованном месте.\nЭтимология: от βρίσκω «находить»: «нахожу себя» → «нахожусь».",
+      "imagePrompt": "A simple flat educational illustration of a map with a location pin marking a place, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/b425b32be256.jpg",
+      "audio": "audio/b425b32be256.mp3"
+    },
+    {
+      "original": "δέχομαι",
+      "translation": "принимать",
+      "mnemonic": "Созвучие: «да, хочу» — так отвечают, когда принимают предложение.\nОбраз: человек протягивает руки и принимает подарок.\nКак запомнить: δέχομαι ≈ «да, хочу» → принимать.",
+      "imagePrompt": "Educational illustration of a person with outstretched hands receiving a wrapped gift from another person, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/f02a4f1258de.jpg",
+      "audio": "audio/f02a4f1258de.mp3"
     }
   ]
 }
