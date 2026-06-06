@@ -893,6 +893,732 @@
       ],
       "image": "images/f02a4f1258de.jpg",
       "audio": "audio/f02a4f1258de.mp3"
+    },
+    {
+      "original": "λίμνη",
+      "translation": "озеро",
+      "mnemonic": "Этимология: лимнология — наука об озёрах; корень лимн- ведёт к «озеро».\nКак запомнить: λίμνη = «лимни»; лимн- связывай с озёрами.",
+      "imagePrompt": "Educational illustration of a calm lake surrounded by gentle hills and a few trees, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/bad62356574c.jpg",
+      "audio": "audio/bad62356574c.mp3"
+    },
+    {
+      "original": "λόφος",
+      "translation": "холм",
+      "mnemonic": "Созвучие: «лофос» — «лофт»: лофт высоко, холм тоже возвышается.\nОбраз: дом-лофт стоит на вершине холма.\nКак запомнить: «лофос» ведёт к «лофту наверху», значит λόφος — холм.",
+      "imagePrompt": "Educational illustration of a small green hill with a simple loft-style house on top, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/35786cf37187.jpg",
+      "audio": "audio/35786cf37187.mp3"
+    },
+    {
+      "original": "μεγαλύτερος",
+      "translation": "больший",
+      "mnemonic": "Этимология: мега- = большой; μεγαλύτερος — «более большой», больший.\nКак запомнить: начало μεγαλ- ведёт к «мега», значит речь о большем размере.",
+      "imagePrompt": "Educational illustration of two simple objects side by side, one clearly larger than the other, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/1fe0b4665072.jpg",
+      "audio": "audio/1fe0b4665072.mp3"
+    },
+    {
+      "original": "μέγεθος",
+      "translation": "размер",
+      "mnemonic": "Этимология: μέγεθος связано с mega-/мега- — «большой».\nОбраз: мега-большой куб измеряют линейкой, проверяя его размер.\nКак запомнить: «мега» ведёт к большой величине и размеру.",
+      "imagePrompt": "Educational illustration of a huge cube being measured with a ruler to show its size, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/ed7c1cbd54d7.jpg",
+      "audio": "audio/ed7c1cbd54d7.mp3"
+    },
+    {
+      "original": "μέγιστος",
+      "translation": "величайший, наибольший",
+      "mnemonic": "Этимология: μέγ- = «мега-»: большой, огромный.\nСозвучие: «мега-ист» — самый «мега» среди всех.\nКак запомнить: мега ведёт к значению «самый большой, величайший».",
+      "imagePrompt": "A simple educational illustration showing several geometric blocks of different sizes, with one clearly the largest, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/bdd9fbd0f5c7.jpg",
+      "audio": "audio/bdd9fbd0f5c7.mp3"
+    },
+    {
+      "original": "μέρος",
+      "translation": "часть",
+      "mnemonic": "Созвучие: «мерить» — отмерить одну часть от целого.\nОбраз: от пирога аккуратно отделена отмеренная часть.\nКак запомнить: μέρος → «мерить» → отмеренная часть.",
+      "imagePrompt": "Educational illustration of a round pie divided into several parts, with one slice separated and a simple measuring ruler nearby, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/af7912a4aa5f.jpg",
+      "audio": "audio/af7912a4aa5f.mp3"
+    },
+    {
+      "original": "μεσογειακός",
+      "translation": "средиземноморский",
+      "mnemonic": "Этимология: «мезо» = середина, «гео/гея» = земля; Средиземное море — море среди земель.\nОбраз: синее море, почти со всех сторон окружённое сушей.\nКак запомнить: мезо + гея ведёт к «среди земли» → средиземноморский.",
+      "imagePrompt": "Educational illustration of a calm blue sea surrounded by sunlit coastal lands, with simple olive trees and white houses in the distance, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/c0c733554bc7.jpg",
+      "audio": "audio/c0c733554bc7.mp3"
+    },
+    {
+      "original": "Μεσόγειος",
+      "translation": "Средиземное море",
+      "mnemonic": "Этимология: μέσο — «середина», γη — «земля»; море «среди земель».\nКак запомнить: Μεσόγειος буквально совпадает с русским «Средиземное».",
+      "imagePrompt": "Educational illustration of the Mediterranean Sea as a blue sea surrounded by simplified land masses, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/1e921c77dc3d.jpg",
+      "audio": "audio/1e921c77dc3d.mp3"
+    },
+    {
+      "original": "μετά",
+      "translation": "после",
+      "mnemonic": "Этимология: «мета-» в словах вроде «метаданные» — данные после/поверх основных; μετά = «после».\nКак запомнить: «мета-» ведёт к идее «после, за пределом».",
+      "imagePrompt": "Educational illustration of a simple sequence: two plain cups on a clean table, with the second cup clearly placed after the first along a small arrow, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/3c4f3eef0f7a.jpg",
+      "audio": "audio/3c4f3eef0f7a.mp3"
+    },
+    {
+      "original": "μεταξύ",
+      "translation": "между",
+      "mnemonic": "Созвучие: μεταξύ [метакси] — «мы в такси», а такси едет между домами.\nОбраз: такси стоит между двумя домами.\nКак запомнить: «метакси» ведёт к образу такси между предметами.",
+      "imagePrompt": "Educational illustration of a yellow taxi positioned between two simple houses, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/d2162da1fe4d.jpg",
+      "audio": "audio/d2162da1fe4d.mp3"
+    },
+    {
+      "original": "μήκος",
+      "translation": "длина",
+      "mnemonic": "Слово простое — лучше запомнить напрямую.",
+      "imagePrompt": "A simple educational illustration of a long horizontal object being measured by a plain ruler with tick marks only, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/1af0f53f84d3.jpg",
+      "audio": "audio/1af0f53f84d3.mp3"
+    },
+    {
+      "original": "μορφολογία",
+      "translation": "морфология",
+      "mnemonic": "Этимология: морфо- = форма, -логия = учение.\nКак запомнить: морфология изучает форму — формы слов или организмов.",
+      "imagePrompt": "Educational illustration of morphology: simple abstract shapes changing form alongside word blocks with different endings, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/5b0b9f20444f.jpg",
+      "audio": "audio/5b0b9f20444f.mp3"
+    },
+    {
+      "original": "νεκρός",
+      "translation": "мёртвый",
+      "mnemonic": "Этимология: некро- в словах «некроз», «некрополь» связан со смертью.\nКак запомнить: νεκρός = «некро-» → мёртвый.",
+      "imagePrompt": "Educational illustration of a dry dead leaf lying on the ground, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/4ece4e8874f9.jpg",
+      "audio": "audio/4ece4e8874f9.mp3"
+    },
+    {
+      "original": "νότια",
+      "translation": "юг",
+      "mnemonic": "Слово простое — лучше запомнить напрямую.",
+      "imagePrompt": "A simple educational illustration of a compass-like circle with the lower direction highlighted by a red arrow, warm sunny landscape at the bottom, clean background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/0584c26c2a17.jpg",
+      "audio": "audio/0584c26c2a17.mp3"
+    },
+    {
+      "original": "νότιος",
+      "translation": "южный",
+      "mnemonic": "Этимология: νότος — юг; νότιος — относящийся к югу.\nОбраз: на компасе выделена южная сторона, освещённая тёплым солнцем.\nКак запомнить: νότος ведёт к «юг», νότιος — «южный».",
+      "imagePrompt": "Educational illustration, simple background, clean composition. A simple compass without any letters or text, with its arrow pointing downward toward a warm sunny landscape at the bottom of the image, highlighting the southern direction.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/175b1e5aefbf.jpg",
+      "audio": "audio/175b1e5aefbf.mp3"
+    },
+    {
+      "original": "ξηροθερμικός",
+      "translation": "сухой и жаркий",
+      "mnemonic": "Этимология: ξηρο- = сухой, θερμ- = тёплый/горячий, как «термос», «термальный».\nОбраз: сухая раскалённая земля под жарким солнцем.\nКак запомнить: ξηρο + θερμικός = сухой + горячий.",
+      "imagePrompt": "Educational illustration of a dry, hot desert landscape with cracked ground and a bright sun overhead, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/48dba84a0de2.jpg",
+      "audio": "audio/48dba84a0de2.mp3"
+    },
+    {
+      "original": "ξηρός",
+      "translation": "сухой",
+      "mnemonic": "Этимология: ξηρός → «ксеро-» в словах ксерофит и ксерокс; основная идея — сухость.\nОбраз: сухой лист выходит из ксерокса.\nКак запомнить: «ксеро-/ксерокс» ведёт к «сухой».",
+      "imagePrompt": "Educational illustration of a dry brown leaf coming out of a generic photocopier, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/69f6af7d8a77.jpg",
+      "audio": "audio/69f6af7d8a77.mp3"
+    },
+    {
+      "original": "ομορφιά",
+      "translation": "красота",
+      "mnemonic": "Этимология: μορφή / «морфология» связаны с формой; красивая форма ведёт к красоте.\nОбраз: изящная форма вазы сразу воспринимается как красота.\nКак запомнить: о-морфи-я → форма → красивая форма → красота.",
+      "imagePrompt": "Educational illustration of an elegant vase with a beautiful simple shape on a clean background, emphasizing beauty through graceful form, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/e88521147e8e.jpg",
+      "audio": "audio/e88521147e8e.mp3"
+    },
+    {
+      "original": "όμορφος",
+      "translation": "красивый",
+      "mnemonic": "Этимология: morph-/морф- = форма; όμορφος исторически связан с «хорошей формой».\nКак запомнить: морф = форма; хорошая форма → красивый.",
+      "imagePrompt": "Educational illustration of a beautiful well-shaped vase with colorful flowers on a simple clean background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/07ffc402f930.jpg",
+      "audio": "audio/07ffc402f930.mp3"
+    },
+    {
+      "original": "ονομάζεται",
+      "translation": "называться",
+      "mnemonic": "Созвучие: «оно называется» почти повторяет ονομάζεται.\nЭтимология: ονομά- связан с «ономастикой» — наукой об именах.\nКак запомнить: «оно называется» ведёт к смыслу «называться».",
+      "imagePrompt": "A simple educational illustration of a cartoon object with an empty label tag beside it, suggesting it is being named, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/f9231cbf99dc.jpg",
+      "audio": "audio/f9231cbf99dc.mp3"
+    },
+    {
+      "original": "όπου",
+      "translation": "где; где бы ни",
+      "mnemonic": "Этимология: внутри όπου — πού «где»; начальное ό- усиливает смысл «где / там, где».\nКак запомнить: видите πού внутри όπου — вспоминайте вопрос о месте.",
+      "imagePrompt": "Educational illustration of a simple cartoon person looking around while holding a map, with several paths and location pins in a clean minimal background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/722238c9edf0.jpg",
+      "audio": "audio/722238c9edf0.mp3"
+    },
+    {
+      "original": "οπωροφόρα δέντρα",
+      "translation": "плодовые деревья",
+      "mnemonic": "Этимология: δέντρα — дендрарий, место с деревьями; -φόρα — «несущие».\nОбраз: деревья несут на ветках яблоки и груши, как на подносах.\nКак запомнить: «несущие плоды» + δέντρα = плодовые деревья.",
+      "imagePrompt": "Educational illustration of fruit trees in an orchard, their branches holding apples and pears like simple trays, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/764bd390a679.jpg",
+      "audio": "audio/764bd390a679.mp3"
+    },
+    {
+      "original": "οροσειρά",
+      "translation": "горная цепь",
+      "mnemonic": "Этимология: όρος — гора, σειρά — ряд; οροσειρά — «ряд гор».",
+      "imagePrompt": "Educational illustration of a mountain range with several connected peaks in a row, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/bddd69f11ade.jpg",
+      "audio": "audio/bddd69f11ade.mp3"
+    },
+    {
+      "original": "πανίδα",
+      "translation": "фауна",
+      "mnemonic": "Созвучие: πανίδα ≈ «панда»; панда — животное, часть фауны.\nОбраз: панда стоит среди разных животных — вся фауна вокруг.",
+      "imagePrompt": "Educational illustration of a panda standing among several different animals in a simple natural setting, representing fauna, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/61e30fab7f92.jpg",
+      "audio": "audio/61e30fab7f92.mp3"
+    },
+    {
+      "original": "παντού",
+      "translation": "везде",
+      "mnemonic": "Этимология: παν- = «всё», как в «панорама» — вид на всё вокруг.\nСозвучие: «пан тут» — тут, там и вокруг.\nКак запомнить: παν- даёт «всё», а «тут» помогает перейти к «везде».",
+      "imagePrompt": "A simple educational illustration of a person standing in the center of a clean open space, with small dots surrounding them in all directions to convey everywhere, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/48533f67f6df.jpg",
+      "audio": "audio/48533f67f6df.mp3"
+    },
+    {
+      "original": "παραλία",
+      "translation": "пляж",
+      "mnemonic": "Созвучие: пара-лия → пара лежит на пляже.\nОбраз: пара лежит на полотенцах у моря.\nКак запомнить: «пара» на пляже ведёт к значению «пляж».",
+      "imagePrompt": "Educational illustration of a couple lying on towels on a sunny beach by the sea, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/69d9c7c4b3cb.jpg",
+      "audio": "audio/69d9c7c4b3cb.mp3"
+    },
+    {
+      "original": "παράλληλα",
+      "translation": "параллельно",
+      "mnemonic": "Этимология: παράλληλα — почти как «параллельно», общий корень «параллель».\nОбраз: две линии идут рядом и не пересекаются.\nКак запомнить: «паралл-» сразу ведёт к значению «параллельно, одновременно».",
+      "imagePrompt": "Educational illustration of two clean parallel lines running side by side across a simple light background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/8f8c4bbf95ee.jpg",
+      "audio": "audio/8f8c4bbf95ee.mp3"
+    },
+    {
+      "original": "πεδιάδα",
+      "translation": "равнина",
+      "mnemonic": "Этимология: πεδίο — «поле»; πεδιάδα — большая ровная местность.\nОбраз: ровное поле до горизонта без гор.\nКак запомнить: πεδί- ведёт к «полю», а большое ровное поле — равнина.",
+      "imagePrompt": "Educational illustration of a wide flat plain stretching to the horizon, with low grass and no mountains, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/e61a0dc7ef00.jpg",
+      "audio": "audio/e61a0dc7ef00.mp3"
+    },
+    {
+      "original": "πεδινός",
+      "translation": "равнинный",
+      "mnemonic": "Этимология: πεδίο — поле, равнина; -ινός делает прилагательное: «равнинный».\nКак запомнить: πεδ- держите как корень «поле/равнина», πεδινός — без гор, ровная местность.",
+      "imagePrompt": "Educational illustration of a flat lowland plain with fields stretching to the horizon, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/f3210e676d1c.jpg",
+      "audio": "audio/f3210e676d1c.mp3"
+    },
+    {
+      "original": "περιοχή",
+      "translation": "область, район",
+      "mnemonic": "Этимология: пери- как в «периметр» — линия вокруг.\nОбраз: на карте периметр очерчивает одну область.\nКак запомнить: пери- ведёт к границе вокруг, а граница выделяет область.",
+      "imagePrompt": "Educational illustration of a simple map with one region clearly outlined by a boundary line, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/780e290749e2.jpg",
+      "audio": "audio/780e290749e2.mp3"
+    },
+    {
+      "original": "περίπου",
+      "translation": "примерно",
+      "mnemonic": "Этимология: περί — «вокруг, около», как в «периметр».\nКак запомнить: «вокруг точного числа» → не точно, а примерно.",
+      "imagePrompt": "Educational illustration of an approximate measurement: a simple ruler with an object slightly around the 10 cm mark, a subtle wavy highlight indicating estimation, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/73d4c69b1491.jpg",
+      "audio": "audio/73d4c69b1491.mp3"
+    },
+    {
+      "original": "πεύκο",
+      "translation": "сосна",
+      "mnemonic": "Созвучие: «певко» — певец; певец поёт под сосной.\nОбраз: певец стоит под высокой сосной и поёт в шишку как в микрофон.\nКак запомнить: «певко» ведёт к певцу, а сцена закрепляет сосну.",
+      "imagePrompt": "Educational illustration, simple background, clean composition: a stylized singer standing under a tall pine tree, holding a pine cone like a microphone, cheerful and clear, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/ec0ff0e6621b.jpg",
+      "audio": "audio/ec0ff0e6621b.mp3"
+    },
+    {
+      "original": "πηγάζω",
+      "translation": "проистекать",
+      "mnemonic": "Этимология: πηγή — «источник»; πηγάζω — «идти из источника, проистекать».\nСозвучие: «пи-газо» — из источника наружу выходит газ.\nКак запомнить: πηγή ведёт к источнику, а -άζω — к действию: «проистекать».",
+      "imagePrompt": "Educational illustration of a clear natural spring in the ground with water flowing out and small bubbles rising from it, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/702b5c73b7ad.jpg",
+      "audio": "audio/702b5c73b7ad.mp3"
+    },
+    {
+      "original": "πηγή",
+      "translation": "источник",
+      "mnemonic": "Созвучие: «пи» — пить; из источника пьют воду.\nОбраз: человек набирает воду из чистого родника.\nКак запомнить: начало «пи» ведёт к питью, а пить удобно из источника.",
+      "imagePrompt": "A simple educational illustration of a person filling a cup from a clear natural spring, clean composition, simple natural background, no text, non-photorealistic style.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/58d4e70ab77e.jpg",
+      "audio": "audio/58d4e70ab77e.mp3"
+    },
+    {
+      "original": "πλαγιά",
+      "translation": "склон",
+      "mnemonic": "Созвучие: «пла-гья» близко к «пологая»: пологая сторона горы — склон.\nОбраз: По пологой стороне горы спускается тропинка.\nКак запомнить: «пла-гья» → «пологая» → склон горы.",
+      "imagePrompt": "Educational illustration of a gently sloping mountainside with a small path going down the slope, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/3fbffcf47d17.jpg",
+      "audio": "audio/3fbffcf47d17.mp3"
+    },
+    {
+      "original": "πλάτος",
+      "translation": "ширина",
+      "mnemonic": "Созвучие: плато — широкая плоская поверхность; πλάτος ведёт к «ширина».\nОбраз: широкое плато растянуто в стороны.",
+      "imagePrompt": "Educational illustration of a wide flat plateau stretching far to the left and right, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/da73c953c999.jpg",
+      "audio": "audio/da73c953c999.mp3"
+    },
+    {
+      "original": "ποικιλία",
+      "translation": "разнообразие",
+      "mnemonic": "Созвучие: «пики-лилии» — много лилий разных видов.\nОбраз: клумба с лилиями разных цветов и форм.\nКак запомнить: «пики-лилии» → набор разных лилий → разнообразие.",
+      "imagePrompt": "Educational illustration of a flowerbed filled with lilies of many different colors and shapes, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/e6aa5a3a9460.jpg",
+      "audio": "audio/e6aa5a3a9460.mp3"
+    },
+    {
+      "original": "ποταμός",
+      "translation": "река",
+      "mnemonic": "Созвучие: «потамос» напоминает «поток» — река как большой поток воды.\nОбраз: широкий поток воды течёт под мостом.\nКак запомнить: «потамос» → поток у моста → река.",
+      "imagePrompt": "Educational illustration of a wide river flowing under a simple bridge, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/95ae1fed2b86.jpg",
+      "audio": "audio/95ae1fed2b86.mp3"
+    },
+    {
+      "original": "πρωτεύουσα",
+      "translation": "столица",
+      "mnemonic": "Этимология: πρωτ- = «первый» (как прото-); столица — главный, «первый» город страны.\nКак запомнить: «прото/первый» ведёт к главному городу — столице.",
+      "imagePrompt": "Educational illustration of a capital city: a central government building with a flag, surrounded by simple city buildings, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/3eb25c9ec906.jpg",
+      "audio": "audio/3eb25c9ec906.mp3"
+    },
+    {
+      "original": "σημαντικός",
+      "translation": "важный",
+      "mnemonic": "Этимология: σημαντικός связан с σήμα «знак»; как «семантика» — смысл и значимость.\nКак запомнить: семантика ведёт к значению, а значимое — важное.",
+      "imagePrompt": "Educational illustration of one large golden star highlighted among several small gray stars, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/04449b7a0f05.jpg",
+      "audio": "audio/04449b7a0f05.mp3"
+    },
+    {
+      "original": "σημερινός",
+      "translation": "сегодняшний",
+      "mnemonic": "Этимология: σήμερα — «сегодня», суффикс -ινός образует признак: σημερινός — «сегодняшний».\nКак запомнить: сначала σήμερα, затем -ινός = относящийся к сегодняшнему дню.",
+      "imagePrompt": "Educational illustration of a clean desk with a fresh newspaper and a calendar page highlighting the current day using a simple circle, no readable text, simple background, clean composition.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/132a20539535.jpg",
+      "audio": "audio/132a20539535.mp3"
+    },
+    {
+      "original": "σιτάρι",
+      "translation": "пшеница",
+      "mnemonic": "Созвучие: «ситари» — «сито»; пшеницу просеивают через сито.\nОбраз: мешок пшеницы высыпают в большое сито.\nКак запомнить: «ситари» ведёт к «ситу», а сито — к зерну пшеницы.",
+      "imagePrompt": "Educational illustration of a sack of wheat grains being poured into a large sieve, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/8799a51d57c6.jpg",
+      "audio": "audio/8799a51d57c6.mp3"
+    },
+    {
+      "original": "στρατεύματα",
+      "translation": "войско",
+      "mnemonic": "Этимология: στρατ- тот же корень, что в «стратегия»: военное управление войском.\nОбраз: стратег стоит перед строем солдат.\nКак запомнить: стратегия нужна, чтобы вести войско.",
+      "imagePrompt": "Educational illustration of a strategist standing in front of orderly rows of uniformed soldiers without weapons, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/1ff5f3abae48.jpg",
+      "audio": "audio/1ff5f3abae48.mp3"
+    },
+    {
+      "original": "σύμπλεγμα",
+      "translation": "комплекс",
+      "mnemonic": "Этимология: συμ- «вместе» + πλέγμα «сплетение»: части, сплетённые вместе, образуют комплекс.\nОбраз: несколько нитей сплетены в один узел-комплекс.",
+      "imagePrompt": "Educational illustration of several colored threads woven together into one clear knot, symbolizing a complex cluster, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/1384801137b2.jpg",
+      "audio": "audio/1384801137b2.mp3"
+    },
+    {
+      "original": "συνδεδεμένος",
+      "translation": "связанный, подключённый",
+      "mnemonic": "Этимология: συν- = «вместе» (как в «синхронно»), δεμένος = «связанный».\nОбраз: два простых устройства соединены кабелем.\nКак запомнить: «вместе» + «связанный» ведёт к значению «подключённый».",
+      "imagePrompt": "Educational illustration of two simple devices connected by a cable, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/b3523238b838.jpg",
+      "audio": "audio/b3523238b838.mp3"
+    },
+    {
+      "original": "συνολικά",
+      "translation": "в целом, всего",
+      "mnemonic": "Этимология: συν-/syn- «вместе» + holos/whole «целый» → всё вместе, целиком.\nОбраз: разные предметы собраны в одну кучу, чтобы посчитать общий итог.\nКак запомнить: συνολικά ведёт к значению «всё вместе, в целом».",
+      "imagePrompt": "Educational illustration of various simple objects gathered into one neat pile for counting the overall total, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/6cb317e05f87.jpg",
+      "audio": "audio/6cb317e05f87.mp3"
+    },
+    {
+      "original": "συνολικός",
+      "translation": "общий, совокупный",
+      "mnemonic": "Этимология: συν- = вместе, όλος = весь/целый; συνολικός — весь вместе, общий итог.\nКак запомнить: «всё вместе» ведёт к значению «общий, совокупный».",
+      "imagePrompt": "Educational illustration of several simple puzzle pieces or colored parts coming together to form one complete whole, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/f8ccf38f3f4e.jpg",
+      "audio": "audio/f8ccf38f3f4e.mp3"
+    },
+    {
+      "original": "σχεδόν",
+      "translation": "почти",
+      "mnemonic": "Созвучие: «сходно» — если вещи сходны, они почти одинаковые.\nОбраз: два почти одинаковых круга рядом, один чуть меньше.\nКак запомнить: σχεδόν → «сходно» → почти то же самое.",
+      "imagePrompt": "Educational illustration of two simple circles side by side on a clean background, almost identical, with one circle slightly smaller than the other. No text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/2cebf84200a0.jpg",
+      "audio": "audio/2cebf84200a0.mp3"
+    },
+    {
+      "original": "ταχέως",
+      "translation": "быстро",
+      "mnemonic": "Этимология: ταχ- тот же корень, что в «тахометр» — прибор измеряет скорость.\nОбраз: стрелка тахометра резко уходит вправо при быстром разгоне.\nКак запомнить: ταχέως связано с «тахо-» и скоростью, значит «быстро».",
+      "imagePrompt": "A simple educational illustration of a car dashboard tachometer needle swinging sharply to the right during rapid acceleration, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/bcd02cd371b8.jpg",
+      "audio": "audio/bcd02cd371b8.mp3"
+    },
+    {
+      "original": "τέλος",
+      "translation": "конец",
+      "mnemonic": "Созвучие: «тело-с»: тело легло — делу конец.\nОбраз: бегун сел за финишной лентой — путь закончился.\nЭтимология: телеология связана с целью; τέλος — цель, итог, конец.",
+      "imagePrompt": "Educational illustration, simple background, clean composition: a simple cartoon runner sitting exhausted just past a finish line, showing that the race has ended. No text on the image.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/7b13e0264151.jpg",
+      "audio": "audio/7b13e0264151.mp3"
+    },
+    {
+      "original": "τετραγωνικά χιλιόμετρα",
+      "translation": "квадратный километр",
+      "mnemonic": "Этимология: τετρα- = 4, γωνία = угол: «четырёхугольный» → квадратный; χιλιόμετρα ≈ километры.\nКак запомнить: tetra + gon = четыре угла, kilometra = километры → квадратный километр.",
+      "imagePrompt": "Educational illustration of a simple map with a highlighted square-shaped area representing a square kilometer, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/0e340c96159f.jpg",
+      "audio": "audio/0e340c96159f.mp3"
+    },
+    {
+      "original": "τμήμα",
+      "translation": "отдел",
+      "mnemonic": "Этимология: тот же греческий корень, что в «томографии»: разрез, срез; τμήμα — отделённая часть.\nОбраз: большой лист разрезан на отдельные секции, каждая секция — отдел.\nКак запомнить: τμήμα держится за идею «отрезанной части».",
+      "imagePrompt": "Educational illustration of a large sheet of paper neatly cut and divided into separate clean sections on a simple desk, symbolizing separated parts or departments, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/de12b913dc15.jpg",
+      "audio": "audio/de12b913dc15.mp3"
+    },
+    {
+      "original": "τουριστικός",
+      "translation": "туристический",
+      "mnemonic": "Этимология: τουριστικός связан с international tourist / русский «турист».\nКак запомнить: «турист» сразу ведёт к значению «туристический».",
+      "imagePrompt": "Educational illustration of a tourist information booth, a map, a suitcase, and a camera, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/db4072ea96b7.jpg",
+      "audio": "audio/db4072ea96b7.mp3"
+    },
+    {
+      "original": "τρίτος",
+      "translation": "третий",
+      "mnemonic": "Этимология: τρί- = «три», как русское «три» и tri-.\nОбраз: три предмета в ряд, третий выделен.\nКак запомнить: начало «три-» ведёт к номеру 3 — третий.",
+      "imagePrompt": "Educational illustration of three simple blocks in a row, with the third block clearly highlighted in a different color, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/6ee96c8ba1ed.jpg",
+      "audio": "audio/6ee96c8ba1ed.mp3"
+    },
+    {
+      "original": "ύψος",
+      "translation": "высота",
+      "mnemonic": "Созвучие: «и пёс» — пёс тянется вверх, чтобы увеличить высоту.\nОбраз: пёс стоит на задних лапах рядом с ростомером.\nКак запомнить: «и пёс» тянется вверх → ύψος = высота.",
+      "imagePrompt": "Educational illustration of a friendly dog standing on its hind legs next to a simple height measuring ruler with tick marks only, reaching upward to show height, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/ec5764331d7a.jpg",
+      "audio": "audio/ec5764331d7a.mp3"
+    },
+    {
+      "original": "φράγμα",
+      "translation": "плотина",
+      "mnemonic": "Этимология: диаФРАГМА — «перегородка» в теле; φράγμα — перегородка для воды.\nОбраз: плотина стоит поперёк реки и преграждает поток.\nКак запомнить: ФРАГМА = перегородка → φράγμα = плотина.",
+      "imagePrompt": "Educational illustration of a simple dam blocking a river, holding back water, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/82bf8d41bae2.jpg",
+      "audio": "audio/82bf8d41bae2.mp3"
+    },
+    {
+      "original": "φτάνω",
+      "translation": "прибывать, достигать",
+      "mnemonic": "Созвучие: φτάνω ≈ «встану»: встану и дойду до места.\nОбраз: Человек встаёт со стула и приходит к двери.\nКак запомнить: «встану» запускает движение, итог — прибыть или достичь цели.",
+      "imagePrompt": "Educational illustration, simple background, clean composition. A simple cartoon person getting up from a chair and walking toward an open door, clearly showing arrival at a destination. No text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/a8e56f1af25e.jpg",
+      "audio": "audio/a8e56f1af25e.mp3"
+    },
+    {
+      "original": "φυλλοβόλα δέντρα",
+      "translation": "листопадное дерево",
+      "mnemonic": "Этимология: φύλλο — лист; связь с «хлорофилл», δέντρο — дерево; связь с «дендрарий».\nОбраз: дерево осенью сбрасывает листья на землю.\nКак запомнить: «филло-» ведёт к листьям, «дендро-» — к дереву: дерево, которое теряет листья.",
+      "imagePrompt": "A deciduous tree in autumn shedding yellow leaves onto the ground, simple educational illustration, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/dc314492bc1d.jpg",
+      "audio": "audio/dc314492bc1d.mp3"
+    },
+    {
+      "original": "φυτρώνω",
+      "translation": "прорастать",
+      "mnemonic": "Этимология: φυτ- близко к «фито-» — растения.\nОбраз: маленький росток прорастает из земли.\nКак запомнить: «фито» ведёт к растению, а действие растения из семени — прорастать.",
+      "imagePrompt": "Educational illustration of a small green sprout growing up from dark soil, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/f2e66145426a.jpg",
+      "audio": "audio/f2e66145426a.mp3"
+    },
+    {
+      "original": "χαρακτηριστικά",
+      "translation": "характеристика",
+      "mnemonic": "Этимология: характеристικά почти как «характеристика».\nКак запомнить: характеристики — это признаки, по которым узнают предмет.",
+      "imagePrompt": "Educational illustration of several simple objects side by side, each with clear distinguishing features such as color, shape, and size, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/15f10e24e646.jpg",
+      "audio": "audio/15f10e24e646.mp3"
+    },
+    {
+      "original": "χαρουπιά",
+      "translation": "рожковое дерево",
+      "mnemonic": "Образ: на дереве висят длинные коричневые «рожки»-стручки.\nЭтимология: χαρούπι — плод кэроба; -ιά часто указывает на дерево: χαρουπιά — дерево с кэробом.\nКак запомнить: рожки на ветках ведут к значению «рожковое дерево».",
+      "imagePrompt": "Educational illustration of a carob tree with long brown curved pods hanging from its branches, simple background, clean composition, no text",
+      "tags": [
+        "география"
+      ],
+      "image": "images/70f6909b477c.jpg",
+      "audio": "audio/70f6909b477c.mp3"
+    },
+    {
+      "original": "χειμώνας",
+      "translation": "зима",
+      "mnemonic": "Созвучие: хи-МО-нас — «МОроз НАС» накрывает зимой.\nОбраз: мороз накрывает дома и улицы белым снегом.\nКак запомнить: «мороз нас» ведёт к значению «зима».",
+      "imagePrompt": "Educational illustration of a quiet small town covered by frost and snow in winter, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/9f4bd61912e3.jpg",
+      "audio": "audio/9f4bd61912e3.mp3"
+    },
+    {
+      "original": "χιλιόμετρα",
+      "translation": "километр",
+      "mnemonic": "Этимология: χίλια — «тысяча», μέτρο — «метр/мера»; χιλιόμετρο — тысяча метров.\nКак запомнить: начало χιλι- связано с «кило-», конец -όμετρα — с «метры».",
+      "imagePrompt": "A simple educational illustration of a straight road with two distance markers connected by a measuring line, representing one kilometer, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/333d200d79a6.jpg",
+      "audio": "audio/333d200d79a6.mp3"
+    },
+    {
+      "original": "χλωρίδα",
+      "translation": "флора",
+      "mnemonic": "Этимология: χλωρ- как в «хлорофилл» — зелёный пигмент растений; χλωρίδα — весь растительный мир.\nОбраз: зелёный ковёр разных растений покрывает землю.\nКак запомнить: хлорофилл ведёт к зелёным растениям, а χλωρίδα — к флоре.",
+      "imagePrompt": "Educational illustration of a green carpet of many different plants covering the ground, with leaves, grasses, and small flowers, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/5fcce98689bd.jpg",
+      "audio": "audio/5fcce98689bd.mp3"
+    },
+    {
+      "original": "χώρα",
+      "translation": "страна",
+      "mnemonic": "Созвучие: «хор» — вся страна поёт гимн хором.\nОбраз: На карте страны стоит большой хор и поёт гимн.\nКак запомнить: χώρα ≈ «хора/хор», хор на карте ведёт к значению «страна».",
+      "imagePrompt": "A simple educational illustration of a map outline of a country with a small cartoon choir standing on it and singing, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/55a50f326b72.jpg",
+      "audio": "audio/55a50f326b72.mp3"
+    },
+    {
+      "original": "χωρητικότητα",
+      "translation": "вместимость",
+      "mnemonic": "Созвучие: «хор» — сколько певцов поместится в зале: вместимость.\nОбраз: большой хор заполняет зал, и по числу людей видна его вместимость.\nЭтимология: χώρος — место, пространство; χωρώ — вмещаться.",
+      "imagePrompt": "Educational illustration of a large choir filling a spacious hall, showing how many people the hall can hold, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/e980cd050c0a.jpg",
+      "audio": "audio/e980cd050c0a.mp3"
     }
   ]
 }
