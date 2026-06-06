@@ -552,6 +552,391 @@
       ],
       "image": "images/6434f3bda8a7.jpg",
       "audio": "audio/6434f3bda8a7.mp3"
+    },
+    {
+      "original": "ενώ",
+      "translation": "пока; тогда как",
+      "mnemonic": "Созвучие: «э, но…» — переход к сравнению или противопоставлению.\nОбраз: Один читает, другой готовит одновременно — «пока / тогда как».\nКак запомнить: финальное «но» помогает вспомнить значение «тогда как».",
+      "imagePrompt": "Educational illustration, simple background, clean composition. Two simple cartoon people in one room at the same time: one person is reading a book on a sofa while another person is cooking at a small kitchen counter. No text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/204847b4ad5f.jpg",
+      "audio": "audio/204847b4ad5f.mp3"
+    },
+    {
+      "original": "εξαιρετικός",
+      "translation": "отличный, превосходный",
+      "mnemonic": "Этимология: εξαιρετικός связано с εξαίρεση — «исключение»; исключительный часто = отличный.\nКак запомнить: «выделяется из ряда» → исключительный, превосходный.",
+      "imagePrompt": "Educational illustration of a gold star award above a neatly arranged school assignment with a check mark, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/332564711fa8.jpg",
+      "audio": "audio/332564711fa8.mp3"
+    },
+    {
+      "original": "επαρχία",
+      "translation": "провинция",
+      "mnemonic": "Созвучие: «епархия» — тоже округ/область; επαρχία — провинция.\nКак запомнить: епархия как церковный округ помогает перейти к общему значению «провинция».",
+      "imagePrompt": "Educational illustration of a quiet rural province: small houses, fields, a narrow road, and hills in the background, simple clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/3998aba761b3.jpg",
+      "audio": "audio/3998aba761b3.mp3"
+    },
+    {
+      "original": "επιβλητικός",
+      "translation": "внушительный, величественный",
+      "mnemonic": "Созвучие: «эпи-ВЛИ» — эпичный и великий; связь с «внушительный».\nОбраз: Огромное величественное здание давит масштабом на маленькую площадь.\nКак запомнить: «эпи» ведёт к эпичности, «вли» — к величию; вместе — внушительный.",
+      "imagePrompt": "Educational illustration of a huge majestic building towering over a small empty square, emphasizing scale and imposing presence, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/967249d591f5.jpg",
+      "audio": "audio/967249d591f5.mp3"
+    },
+    {
+      "original": "επιφάνεια",
+      "translation": "поверхность",
+      "mnemonic": "Созвучие: эпи-ФА-ни-я → фанера; лист фанеры лежит на поверхности.\nЭтимология: φαίνω — показывать; поверхность — видимая внешняя сторона предмета.\nКак запомнить: «фанера сверху» ведёт к значению «поверхность».",
+      "imagePrompt": "Educational illustration of a single sheet of plywood lying flat on the surface of a simple table, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/c00f6ed4b102.jpg",
+      "audio": "audio/c00f6ed4b102.mp3"
+    },
+    {
+      "original": "επιχειρηματικός",
+      "translation": "предпринимательский",
+      "mnemonic": "Этимология: επιχείρηση — предприятие, бизнес; επιχειρηματικός — относящийся к бизнесу.\nКак запомнить: основа επιχειρημα- ведёт к «предприятию», окончание -ικός похоже на «-ический»: предпринимательский.",
+      "imagePrompt": "Educational illustration of a stylized entrepreneur at a desk with simple charts, a small shop icon, and a lightbulb, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/8f32051099e8.jpg",
+      "audio": "audio/8f32051099e8.mp3"
+    },
+    {
+      "original": "εσπεριδοειδή",
+      "translation": "цитрусовые",
+      "mnemonic": "Этимология: -ειδή = «виды»; εσπεριδο- связано с «гесперидий» — плод цитрусовых.\nКак запомнить: εσπεριδοειδή буквально ведёт к «цитрусовые виды».",
+      "imagePrompt": "An educational illustration of assorted citrus fruits: oranges, lemons, limes, mandarins, and grapefruit in a simple basket on a clean light background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/71e1b7919ee8.jpg",
+      "audio": "audio/71e1b7919ee8.mp3"
+    },
+    {
+      "original": "ευδοκιμώ",
+      "translation": "преуспевать, процветать",
+      "mnemonic": "Этимология: ευ- = хорошо; δοκιμή = проверка, испытание.\nОбраз: росток выдержал проверку солнцем и дождём и начал пышно расти.\nКак запомнить: хорошо прошёл проверку → стал успешным и процветает.",
+      "imagePrompt": "Educational illustration of a small green plant growing lush and healthy under warm sunlight and gentle rain, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/43d753d945d9.jpg",
+      "audio": "audio/43d753d945d9.mp3"
+    },
+    {
+      "original": "εύφορος",
+      "translation": "плодородный",
+      "mnemonic": "Этимология: ευ- = хорошо, φέρω = нести/приносить; εύφορος — «хорошо приносящий» урожай.\nОбраз: поле щедро приносит колосья и плоды.\nКак запомнить: «хорошо приносит» → земля плодородная.",
+      "imagePrompt": "Educational illustration of a fertile field full of golden wheat and ripe fruits, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/cfb945d2649c.jpg",
+      "audio": "audio/cfb945d2649c.mp3"
+    },
+    {
+      "original": "ζώνη",
+      "translation": "пояс; зона",
+      "mnemonic": "Созвучие: зони → зона: пояс делает «зону» вокруг талии.\nОбраз: широкая полоса-зона обхватывает талию как пояс.\nКак запомнить: ζώνη читается «зони», рядом с русским «зона» и образом пояса.",
+      "imagePrompt": "Educational illustration of a wide colored band wrapping around a person's waist like a belt, shown as a clear zone around the torso, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/beae24b6e42e.jpg",
+      "audio": "audio/beae24b6e42e.mp3"
+    },
+    {
+      "original": "ήπιος",
+      "translation": "мягкий, кроткий",
+      "mnemonic": "Созвучие: [Ипиос] — «хиппи»: мирный, мягкий человек.\nОбраз: Спокойный хиппи мягко укрывает ребёнка лёгким пледом.\nКак запомнить: «ипи/хиппи» ведёт к мирному и мягкому — ήπιος.",
+      "imagePrompt": "Educational illustration, simple background, clean composition: a calm hippie-style person in colorful simple clothes gently covering a child with a light soft blanket, warm peaceful mood, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/ed1e827ce839.jpg",
+      "audio": "audio/ed1e827ce839.mp3"
+    },
+    {
+      "original": "θέρετρο",
+      "translation": "курорт",
+      "mnemonic": "Этимология: θέρος — «лето»; θέρετρο — место для летнего отдыха, курорт.\nОбраз: Летний курорт у моря: шезлонги, солнце и отель.",
+      "imagePrompt": "A sunny seaside resort by the sea with lounge chairs, umbrellas, and a small hotel in the background, simple background, clean composition, educational illustration, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/ae0b029392df.jpg",
+      "audio": "audio/ae0b029392df.mp3"
+    },
+    {
+      "original": "ιδιαίτερα",
+      "translation": "особенно",
+      "mnemonic": "Этимология: ιδιο- связано с «идиома», «идиосинкразия» — своё, особое.\nКак запомнить: «своё/особое» ведёт к значению «особенно».",
+      "imagePrompt": "Educational illustration of several simple objects in a row, with one object clearly highlighted as special, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/4d2356e537f4.jpg",
+      "audio": "audio/4d2356e537f4.mp3"
+    },
+    {
+      "original": "καθώς",
+      "translation": "как; пока; поскольку",
+      "mnemonic": "Созвучие: ка- напоминает «как»: καθώς часто соединяет части фразы как русское «как/пока».\nОбраз: два действия идут параллельно: человек читает, пока за окном идёт дождь.\nКак запомнить: καθώς связывает события или причину: «как/пока/поскольку».",
+      "imagePrompt": "A simple educational cartoon illustration: one person reading a book indoors while rain falls outside the window, showing two simultaneous actions, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/096943614fea.jpg",
+      "audio": "audio/096943614fea.mp3"
+    },
+    {
+      "original": "καλλιέργεια",
+      "translation": "выращивание, культивация",
+      "mnemonic": "Этимология: καλλι- как в «каллиграфия» = красивый; -έργεια от έργο = работа: «красивая работа» с землёй → выращивание.\nОбраз: человек аккуратно ухаживает за ровной грядкой, делая землю «красивой».",
+      "imagePrompt": "Educational illustration of a person gently tending neat garden beds, watering young green plants and making the soil rows clean and orderly, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/bbbce16b68aa.jpg",
+      "audio": "audio/bbbce16b68aa.mp3"
+    },
+    {
+      "original": "καλλιεργούνται",
+      "translation": "выращиваются",
+      "mnemonic": "Этимология: καλλι- как в «каллиграфия» — «красиво/хорошо», έργο — «работа»: хорошая работа с землёй → выращивание.\nОбраз: На грядке за растениями аккуратно ухаживают, и они выращиваются.",
+      "imagePrompt": "Educational illustration of a neat garden bed where hands carefully water and tend young green plants, showing that the plants are being cultivated, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/8a5a06871327.jpg",
+      "audio": "audio/8a5a06871327.mp3"
+    },
+    {
+      "original": "καλύπτω",
+      "translation": "покрывать, закрывать",
+      "mnemonic": "Созвучие: калипто — «пальто»: пальто покрывает и закрывает тело.\nОбраз: большое пальто накрывает предмет и прячет его.\nЭтимология: апокалипсис — «раскрытие»: apo- снимает, а καλύπτ- связан с покровом.",
+      "imagePrompt": "Educational illustration, simple background, clean composition: a large coat covering an object completely, showing the idea of covering or hiding. No text, no photorealistic people.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/cd5ea66c4406.jpg",
+      "audio": "audio/cd5ea66c4406.mp3"
+    },
+    {
+      "original": "καταλαμβάνω",
+      "translation": "занимаю, захватываю",
+      "mnemonic": "Этимология: κατά = вниз/полностью + λαμβάνω = брать → «взять полностью, захватить».\nОбраз: рука сверху опускается на стул и занимает его.\nКак запомнить: «взять сверху и полностью» ведёт к значению «занимать, захватывать».",
+      "imagePrompt": "Educational illustration, simple background, clean composition: a large cartoon hand descends from above and firmly takes an empty chair, showing the idea of seizing or occupying it. No text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/9a49c87dc860.jpg",
+      "audio": "audio/9a49c87dc860.mp3"
+    },
+    {
+      "original": "καταλήγω",
+      "translation": "приходить к выводу; заканчиваться",
+      "mnemonic": "Этимология: κατά — «вниз, до конца» + λήγω — «заканчиваться»: дойти до финала.\nОбраз: Шар катится вниз по дорожке и останавливается у финиша.\nКак запомнить: «ката-» связывай с катиться к завершению: καταλήγω — прийти к итогу.",
+      "imagePrompt": "Educational illustration of a ball rolling down a simple sloped path and stopping at a clear finish line, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/6976cc00e42d.jpg",
+      "audio": "audio/6976cc00e42d.mp3"
+    },
+    {
+      "original": "κατάσταση",
+      "translation": "состояние, ситуация",
+      "mnemonic": "Этимология: «στάση» внутри слова — положение; как status/static: состояние, положение.\nКак запомнить: κατά-σταση держится на «ста/стат» — вспоминай статус или состояние.",
+      "imagePrompt": "Educational illustration of a person calmly assessing the condition of a simple room with a checklist, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/b1444e9be76d.jpg",
+      "audio": "audio/b1444e9be76d.mp3"
+    },
+    {
+      "original": "κατεχόμενος",
+      "translation": "оккупированный, удерживаемый",
+      "mnemonic": "Этимология: κατά «под/вниз» + έχω «держать, иметь» → «держимый под контролем».\nОбраз: участок земли накрыт большой ладонью и не может освободиться.\nКак запомнить: «под + держать» ведёт к значению «занятый, оккупированный».",
+      "imagePrompt": "A simple educational illustration of a small piece of land covered and held down by a large neutral hand, symbolizing control, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/b4811472acb5.jpg",
+      "audio": "audio/b4811472acb5.mp3"
+    },
+    {
+      "original": "κέδρος",
+      "translation": "кедр",
+      "mnemonic": "Созвучие: «кедрос» — почти «кедр».\nЭтимология: русское «кедр» связано с греческим κέδρος.\nКак запомнить: уберите греческое окончание -ос — остаётся «кедр».",
+      "imagePrompt": "Educational illustration of a single cedar tree with wide branches and evergreen needles, simple natural background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/1478e3f5ff9f.jpg",
+      "audio": "audio/1478e3f5ff9f.mp3"
+    },
+    {
+      "original": "κλίμα",
+      "translation": "климат; атмосфера",
+      "mnemonic": "Этимология: κλίμα читается «клима» — тот же корень, что в русском «климат».\nКак запомнить: климат без конечного «т» → клима → κλίμα.",
+      "imagePrompt": "Educational illustration of different climate zones on Earth: a sunny desert, green temperate forest, snowy polar area, and tropical rain clouds, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/b65dd880e56a.jpg",
+      "audio": "audio/b65dd880e56a.mp3"
+    },
+    {
+      "original": "κοιλάδα",
+      "translation": "долина",
+      "mnemonic": "Этимология: корень κοιλ- связан с идеей «полый, впадина».\nКак запомнить: долина — это впадина между горами.",
+      "imagePrompt": "Educational illustration of a green valley between two gentle hills under a clear sky, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/9c2a97440831.jpg",
+      "audio": "audio/9c2a97440831.mp3"
+    },
+    {
+      "original": "κομμάτι",
+      "translation": "кусок, часть",
+      "mnemonic": "Созвучие: «ком» — комок, отдельный кусок.\nОбраз: от большого кома теста отрезали маленький кусок.\nКак запомнить: κομμάτι начинается как «ком», а ком легко делится на куски.",
+      "imagePrompt": "Educational illustration of a large lump of dough with one small piece cut off beside it, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/a6dfe210c61a.jpg",
+      "audio": "audio/a6dfe210c61a.mp3"
+    },
+    {
+      "original": "κορφή",
+      "translation": "вершина",
+      "mnemonic": "Созвучие: «корона» — корона на самой верхушке головы.\nОбраз: золотая корона лежит на вершине горы.\nКак запомнить: кор- ведёт к короне, а корона наверху — значит «вершина».",
+      "imagePrompt": "Educational illustration of a golden crown resting on the very top of a snowy mountain peak, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/7b6b18894f67.jpg",
+      "audio": "audio/7b6b18894f67.mp3"
+    },
+    {
+      "original": "κριθάρι",
+      "translation": "ячмень",
+      "mnemonic": "Созвучие: кри-та-ри ≈ «крупа в таре»: ячмень как зерно в таре.\nОбраз: большая тара, доверху наполненная зёрнами ячменя.\nКак запомнить: «тари» напоминает «тара» с зерном — κριθάρι.",
+      "imagePrompt": "A large simple container filled to the top with barley grains, educational illustration, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/a752525c7f8a.jpg",
+      "audio": "audio/a752525c7f8a.mp3"
+    },
+    {
+      "original": "κυβέρνηση",
+      "translation": "правительство",
+      "mnemonic": "Этимология: κυβέρνηση связано с govern/government и русскими «губернатор», «губерния»: всё про управление.\nКак запомнить: govern/губернатор ведут к управлению страной, то есть к правительству.",
+      "imagePrompt": "A simple educational illustration of a government building with columns and a generic flag, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/7481f81df045.jpg",
+      "audio": "audio/7481f81df045.mp3"
+    },
+    {
+      "original": "κυβικός",
+      "translation": "кубический",
+      "mnemonic": "Этимология: κύβος — «куб»; κυβικός — «кубический».\nКак запомнить: корень κυβ- ведёт к «кубу», значит к кубической форме.",
+      "imagePrompt": "A clean educational illustration of a large geometric cube, with subtle three-dimensional measurement lines along its edges, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/d129a32520ab.jpg",
+      "audio": "audio/d129a32520ab.mp3"
+    },
+    {
+      "original": "κυπαρίσσι",
+      "translation": "кипарис",
+      "mnemonic": "Созвучие: κυπαρίσσι — «кипарис»; почти то же слово, только с греческим окончанием -и.\nКак запомнить: «кипарис» напрямую ведёт к κυπαρίσσι.",
+      "imagePrompt": "Educational illustration of a tall slender cypress tree with dark green foliage on a simple light background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/e884505de024.jpg",
+      "audio": "audio/e884505de024.mp3"
+    },
+    {
+      "original": "κύριος",
+      "translation": "господин; главный",
+      "mnemonic": "Этимология: в церковной фразе «Кирие элейсон» Кирие = «Господи» — та же основа κύριος.\nКак запомнить: «Кирие» ведёт к обращению «Господи», значит κύριος — господин.",
+      "imagePrompt": "Educational illustration of a dignified stylized gentleman or master standing calmly at the front of a simple room, clean composition, simple background, no text, no photorealistic people.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/a42d4ee5c021.jpg",
+      "audio": "audio/a42d4ee5c021.mp3"
+    },
+    {
+      "original": "κυριότερος",
+      "translation": "более важный, главный",
+      "mnemonic": "Этимология: κύριος — господин, главный; -ότερος — сравнительная степень: «более главный».\nКак запомнить: κυριότερος = κύριος + «более» → более важный, главный.",
+      "imagePrompt": "Educational illustration of two simple documents on a desk, one larger and highlighted with a star to show it is more important, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/1db28b1ad4f5.jpg",
+      "audio": "audio/1db28b1ad4f5.mp3"
+    },
+    {
+      "original": "κυρίως",
+      "translation": "главным образом",
+      "mnemonic": "Этимология: κύριος — главный, господин; -ως делает наречие: «главным образом».\nКак запомнить: κυρίως опирается на κύριος — главный → главным образом.",
+      "imagePrompt": "Educational illustration of one large bright central object surrounded by several smaller faded objects, showing the idea of something being primary or main, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/a86dd281b117.jpg",
+      "audio": "audio/a86dd281b117.mp3"
+    },
+    {
+      "original": "λαχανικό",
+      "translation": "овощ",
+      "mnemonic": "Этимология: λαχανικό от λάχανο — «капуста, зелень»; капуста как опора для «овощ».\nОбраз: большая капуста среди других овощей на кухонном столе.\nКак запомнить: λαχαν- ведёт к λάχανο, а капуста — простой символ овоща.",
+      "imagePrompt": "Educational illustration of a large cabbage surrounded by other vegetables on a kitchen table, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/e91d33602433.jpg",
+      "audio": "audio/e91d33602433.mp3"
+    },
+    {
+      "original": "λιμάνι",
+      "translation": "порт, гавань",
+      "mnemonic": "Созвучие: λιμάνι — «лиман»: залив у моря, где удобно держать лодки.\nОбраз: лодки стоят у причала в тихом лимане.\nКак запомнить: «лиман» ведёт к морскому месту для судов — порт, гавань.",
+      "imagePrompt": "Educational illustration of small boats moored at a pier in a calm sea harbor, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/6f28a0214897.jpg",
+      "audio": "audio/6f28a0214897.mp3"
     }
   ]
 }
