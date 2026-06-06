@@ -114,6 +114,424 @@
       ],
       "image": "images/05a6e29394bf.jpg",
       "audio": "audio/05a6e29394bf.mp3"
+    },
+    {
+      "original": "αναπτυσσόμενος",
+      "translation": "развивающийся",
+      "mnemonic": "Этимология: πτύσσω — «складываю/разворачиваю»; развитие как разворачивание сложенного.\nОбраз: росток разворачивает сложенные листья и растёт.\nКак запомнить: αναπτυσσόμενος — тот, кто разворачивается и растёт: развивающийся.",
+      "imagePrompt": "Educational illustration of a small green sprout unfolding its folded leaves as it grows upward, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/d1adc7b9d242.jpg",
+      "audio": "audio/d1adc7b9d242.mp3"
+    },
+    {
+      "original": "ανατολικά",
+      "translation": "на восток, на востоке; восточный",
+      "mnemonic": "Этимология: ανατολή — «восход»; восток — сторона, где восходит солнце.\nСозвучие: «Анатолий» близко к ανατολικά; имя связано с греческим «восточный».\nКак запомнить: ανατολικά связывай с восходом солнца и направлением на восток.",
+      "imagePrompt": "Educational illustration of a sunrise on the eastern horizon, with a simple compass showing the east direction visually but without any letters or text, clean composition, simple background.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/b0179bde1454.jpg",
+      "audio": "audio/b0179bde1454.mp3"
+    },
+    {
+      "original": "ανατολικός",
+      "translation": "восточный",
+      "mnemonic": "Этимология: ανατολή — «восток, восход»; ανατολικός — «восточный».\nСозвучие: «анатолийский» — Анатолия лежит к востоку от Греции.\nКак запомнить: анато- связывай с восходом солнца на востоке.",
+      "imagePrompt": "Educational illustration of a sunrise over the eastern horizon, with a simple compass arrow pointing to the right, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/0f9a9c9c64ec.jpg",
+      "audio": "audio/0f9a9c9c64ec.mp3"
+    },
+    {
+      "original": "αξιοσημείωτος",
+      "translation": "примечательный, достойный внимания",
+      "mnemonic": "Этимология: άξιος — «достойный» + σημειώνω/σημείο — «отмечать/знак»: достойный отметки.\nОбраз: важный предмет обведён красным кружком и отмечен галочкой.\nКак запомнить: «достойный отметки» = примечательный.",
+      "imagePrompt": "Educational illustration, simple background, clean composition: a single important object on a desk is highlighted with a red circle and a large check mark beside it, showing it is noteworthy. No text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/4ffcc13c08a4.jpg",
+      "audio": "audio/4ffcc13c08a4.mp3"
+    },
+    {
+      "original": "απέχει",
+      "translation": "находится на расстоянии, воздерживается",
+      "mnemonic": "Этимология: από — «от» + έχω — «держу/имею»: держу себя от чего-то.\nОбраз: человек держит предмет от себя на вытянутой руке — есть дистанция.\nКак запомнить: «от + держу» ведёт к «находится на расстоянии/воздерживается».",
+      "imagePrompt": "A simple educational illustration of a cartoon person holding an object at arm's length away from their body, clearly showing distance, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/0b7a698a50e5.jpg",
+      "audio": "audio/0b7a698a50e5.mp3"
+    },
+    {
+      "original": "αποτελεί",
+      "translation": "составляет",
+      "mnemonic": "Созвучие: «а по телу» — по телу видно, из каких частей оно состоит.\nОбраз: тело собрано из крупных пазлов, каждый кусок составляет целое.\nКак запомнить: «апотели» → «по телу» → части составляют целое.",
+      "imagePrompt": "Educational illustration of a simple human body silhouette assembled from large puzzle pieces, showing separate parts forming one whole, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/53b8131bcf86.jpg",
+      "audio": "audio/53b8131bcf86.mp3"
+    },
+    {
+      "original": "βάση",
+      "translation": "основа; база",
+      "mnemonic": "Этимология: βάση родственно «база» и English basis: основа, опора.\nОбраз: Здание стоит на прочной базе-основании.\nКак запомнить: «база/basis» сразу ведёт к значению «основа».",
+      "imagePrompt": "Educational illustration of a building standing on a solid foundation base, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/16173ff0e296.jpg",
+      "audio": "audio/16173ff0e296.mp3"
+    },
+    {
+      "original": "βελανιδιά",
+      "translation": "дуб",
+      "mnemonic": "Этимология: βελανίδι — жёлудь; βελανιδιά — дерево с желудями.\nОбраз: большой дуб, весь усыпанный желудями.\nКак запомнить: жёлуди ведут к дереву, на котором они растут — дубу.",
+      "imagePrompt": "Educational illustration of a large oak tree covered with acorns, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/776795125852.jpg",
+      "audio": "audio/776795125852.mp3"
+    },
+    {
+      "original": "βόρεια",
+      "translation": "север; на севере",
+      "mnemonic": "Этимология: Борей — северный ветер; βόρεια связано с севером.\nКак запомнить: βόρεια → Борей → северный ветер → север.",
+      "imagePrompt": "Educational illustration of a compass pointing north with cold wind and snowy landscape in the northern direction, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/dfe461c29f91.jpg",
+      "audio": "audio/dfe461c29f91.mp3"
+    },
+    {
+      "original": "βόρειος",
+      "translation": "северный",
+      "mnemonic": "Этимология: «бореальный» = северный; тот же греческий корень.\nКак запомнить: βόρειος → бореальный → северный.",
+      "imagePrompt": "Educational illustration of a simple compass with the north direction highlighted, snowy northern landscape in the background, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/7f361b9925d5.jpg",
+      "audio": "audio/7f361b9925d5.mp3"
+    },
+    {
+      "original": "βουνό",
+      "translation": "гора",
+      "mnemonic": "Созвучие: «вон оно» — указание вдаль на гору.\nОбраз: человек показывает пальцем на далёкую гору.\nКак запомнить: βουνό читается примерно «вунó»; «вон оно» ведёт к образу горы вдали.",
+      "imagePrompt": "A simple educational illustration of a person pointing toward a distant mountain on the horizon, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/409dae5b56f2.jpg",
+      "audio": "audio/409dae5b56f2.mp3"
+    },
+    {
+      "original": "βουνοκορφή",
+      "translation": "горная вершина",
+      "mnemonic": "Этимология: βουνό — гора + κορφή/κορυφή — вершина.\nКак запомнить: в слове две части: «гора» и «верх» → горная вершина.",
+      "imagePrompt": "Educational illustration of a high mountain with a clear pointed summit, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/c3a2ede10832.jpg",
+      "audio": "audio/c3a2ede10832.mp3"
+    },
+    {
+      "original": "βουνοπλαγιά",
+      "translation": "горный склон",
+      "mnemonic": "Этимология: βουνό — гора, πλαγιά — склон; вместе βουνοπλαγιά — горный склон.\nСозвучие: πλαγιά близко к «пологая» — пологая сторона горы.\nКак запомнить: βουνό даёт гору, πλαγιά/«пологая» ведёт к склону.",
+      "imagePrompt": "Educational illustration of a mountain slope, showing the side of a green mountain descending into a valley, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/574fa3c422fd.jpg",
+      "audio": "audio/574fa3c422fd.mp3"
+    },
+    {
+      "original": "βραχώδης",
+      "translation": "скалистый, каменистый",
+      "mnemonic": "Этимология: βράχος — скала; -ώδης — «-истый», значит «скалистый».\nСозвучие: «враг ходит» — враг ходит по каменистой скале.\nОбраз: человек осторожно идет по скалистой тропе.",
+      "imagePrompt": "Educational illustration of a lone cartoon hiker carefully walking along a rocky cliff path, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/c1828b6d71b7.jpg",
+      "audio": "audio/c1828b6d71b7.mp3"
+    },
+    {
+      "original": "βρετανικός",
+      "translation": "британский",
+      "mnemonic": "Этимология: Βρετανία = Британия; βρετανικός = британский.\nКак запомнить: «бретаникос» ведёт к «Британия» + греческое -ικός как русское «-ский».",
+      "imagePrompt": "Educational illustration of British culture: a rainy London street with a red double-decker bus, an umbrella, and a Union Jack flag, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/62e6a348fb08.jpg",
+      "audio": "audio/62e6a348fb08.mp3"
+    },
+    {
+      "original": "βρίσκεται",
+      "translation": "находится",
+      "mnemonic": "Этимология: βρίσκω — находить; βρίσκομαι — находиться.\nКак запомнить: корень βρίσκ- ведёт к «найти», форма βρίσκεται — «он/она/оно находится».",
+      "imagePrompt": "Educational illustration of a simple map with a red location pin marking where a small house is located, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/6096ebf82cb8.jpg",
+      "audio": "audio/6096ebf82cb8.mp3"
+    },
+    {
+      "original": "βροχόπτωση",
+      "translation": "выпадение осадков",
+      "mnemonic": "Этимология: βροχή = дождь, πτώση = падение; вместе — «падение дождя».\nОбраз: из облака прямо вниз падает плотная стена дождя.\nКак запомнить: дождь + падение ведут к «выпадению осадков».",
+      "imagePrompt": "Educational illustration of a dense curtain of rain falling straight down from a gray cloud onto the ground, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/186aa46b9d4e.jpg",
+      "audio": "audio/186aa46b9d4e.mp3"
+    },
+    {
+      "original": "γραφικός",
+      "translation": "графический; живописный",
+      "mnemonic": "Этимология: графика, графический — тот же корень γραφ-, связанный с письмом и рисунком.\nКак запомнить: графический рисунок помогает удержать γραφικός как «графический; живописный».",
+      "imagePrompt": "A clean educational illustration of a picturesque landscape drawn with simple graphic lines, minimal colors, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/7a9ea6dee41e.jpg",
+      "audio": "audio/7a9ea6dee41e.mp3"
+    },
+    {
+      "original": "γωνιά",
+      "translation": "угол",
+      "mnemonic": "Созвучие: «гоняй» — гоняют мяч в угол.\nОбраз: мяч загоняют в угол комнаты.\nКак запомнить: «гоняй» ведёт к действию «загнать в угол» → γωνιά.",
+      "imagePrompt": "Educational illustration of a ball being kicked or rolled into the corner of a simple room, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/bc0419d38805.jpg",
+      "audio": "audio/bc0419d38805.mp3"
+    },
+    {
+      "original": "δασικός",
+      "translation": "лесной",
+      "mnemonic": "Этимология: δάσος — лес; δασικός — относящийся к лесу.\nКак запомнить: δάσος ведёт к «лес», а -ικός часто делает прилагательное: лес → лесной.",
+      "imagePrompt": "Educational illustration of a green forest with tall trees and a simple clean background, representing something forest-related. No text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/25bdbf88dfa2.jpg",
+      "audio": "audio/25bdbf88dfa2.mp3"
+    },
+    {
+      "original": "δασώδης",
+      "translation": "лесистый",
+      "mnemonic": "Этимология: δάσος — лес; δασώδης — «покрытый лесом».\nОбраз: Холм со всех сторон зарос деревьями.\nКак запомнить: δασ- ведёт к δάσος, значит признак места — лесистый.",
+      "imagePrompt": "Educational illustration of a hill completely covered with dense green trees, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/6b1b1e3c6672.jpg",
+      "audio": "audio/6b1b1e3c6672.mp3"
+    },
+    {
+      "original": "δεύτερος",
+      "translation": "второй",
+      "mnemonic": "Созвучие: «дуэт» — в дуэте двое, значит появляется второй.\nОбраз: Первый участник дуэта отходит, второй выходит к микрофону.\nКак запомнить: дефт-/дуэт ведёт к числу два: δεύτερος — второй.",
+      "imagePrompt": "Educational illustration, simple background, clean composition: two simple cartoon singers in a duet on a small stage, the first singer stepping aside while the second singer stands at the microphone. No text, no brands, no photorealistic people.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/5f3eda2d84d7.jpg",
+      "audio": "audio/5f3eda2d84d7.mp3"
+    },
+    {
+      "original": "δέχεται",
+      "translation": "он/она/оно принимает",
+      "mnemonic": "Этимология: δεχ- — основа δέχομαι «принимать».\nКак запомнить: δέχεται = δεχ- + -εται: «он/она принимает».",
+      "imagePrompt": "Educational illustration of a person calmly accepting a small offered gift with open hands, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/0ee6b6500519.jpg",
+      "audio": "audio/0ee6b6500519.mp3"
+    },
+    {
+      "original": "δημητριακά",
+      "translation": "злаки, зерновые; хлопья",
+      "mnemonic": "Этимология: Δημήτηρ — Деметра, богиня урожая; отсюда δημητριακά — зерновые дары урожая.\nОбраз: миска хлопьев рядом с колосьями пшеницы.\nКак запомнить: Деметра ведёт к урожаю, урожай зерна — δημητριακά.",
+      "imagePrompt": "Educational illustration of a bowl of breakfast cereal with wheat stalks beside it, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/40166f2f39b3.jpg",
+      "audio": "audio/40166f2f39b3.mp3"
+    },
+    {
+      "original": "διάσπαρτος",
+      "translation": "разбросанный, рассеянный",
+      "mnemonic": "Этимология: диаспора — люди, рассеянные по разным местам; διάσπαρτος — тоже «рассеянный, разбросанный».\nОбраз: семена разбросаны по всему полю.\nКак запомнить: «диаспора» ведёт к идее рассеяния.",
+      "imagePrompt": "Educational illustration of many seeds scattered across an open field, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/9d600bed7760.jpg",
+      "audio": "audio/9d600bed7760.mp3"
+    },
+    {
+      "original": "διεθνής",
+      "translation": "международный",
+      "mnemonic": "Этимология: εθν- как «этнос» = народ; διε- = между/через → между народами.\nКак запомнить: этнос ведёт к народам, а διε- связывает их — международный.",
+      "imagePrompt": "Educational illustration of a globe surrounded by simple flag icons, symbolizing international connection, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/3e2ee98a852d.jpg",
+      "audio": "audio/3e2ee98a852d.mp3"
+    },
+    {
+      "original": "δυτικά",
+      "translation": "на западе; к западу",
+      "mnemonic": "Этимология: δυτικά связано с δύση — заходом солнца.\nОбраз: солнце заходит за горизонт — это западная сторона.\nКак запомнить: δυτικά ведёт к закату, а закат указывает на запад.",
+      "imagePrompt": "A simple educational illustration of the sun setting behind a flat horizon, warm orange sky, minimal landscape, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/6096e2ed4692.jpg",
+      "audio": "audio/6096e2ed4692.mp3"
+    },
+    {
+      "original": "δυτικός",
+      "translation": "западный",
+      "mnemonic": "Этимология: δύση — запад, закат; δυτικός — западный.\nОбраз: солнце садится за горизонт на западной стороне компаса.\nКак запомнить: запад = сторона заката, а δυτικός связан с δύση.",
+      "imagePrompt": "Educational illustration of a simple compass without letters, with the sun setting behind the horizon on the western side, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/4a76b74e241f.jpg",
+      "audio": "audio/4a76b74e241f.mp3"
+    },
+    {
+      "original": "έδαφος",
+      "translation": "почва, земля",
+      "mnemonic": "Созвучие: эда-фос → «еда»: еда растёт из почвы.\nОбраз: из тёмной земли вырастает растение, которое станет едой.\nКак запомнить: «эда» ведёт к еде, а еда начинается с почвы.",
+      "imagePrompt": "Educational illustration of a patch of soil and ground with a small green plant growing from it, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/c432c19515de.jpg",
+      "audio": "audio/c432c19515de.mp3"
+    },
+    {
+      "original": "έδρα",
+      "translation": "кафедра; штаб-квартира",
+      "mnemonic": "Этимология: «кафедра» содержит греческий корень έδρα — место/сиденье, позже должность и отдел.\nОбраз: кафедра в центре здания — главное место, где находится руководство.\nКак запомнить: кафедра → έδρα → место/штаб-квартира.",
+      "imagePrompt": "Educational illustration of a university lectern or chair placed at the center of a simple office building interior, suggesting a central seat or headquarters, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/ad7caff7d680.jpg",
+      "audio": "audio/ad7caff7d680.mp3"
+    },
+    {
+      "original": "εθνικός",
+      "translation": "национальный; этнический",
+      "mnemonic": "Этимология: тот же корень, что «этнос», «этнический», English ethnic.\nКак запомнить: этн- ведёт к народу/нации; -ικός часто образует прилагательное.",
+      "imagePrompt": "A simple educational illustration of a diverse group of stylized people with abstract cultural patterns and a neutral flag-like ribbon, representing national and ethnic identity, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/9acc327a641c.jpg",
+      "audio": "audio/9acc327a641c.mp3"
+    },
+    {
+      "original": "έκταση",
+      "translation": "площадь, протяжённость",
+      "mnemonic": "Этимология: близко к extension/«экстенсивный» — идея растяжения и большой площади.\nОбраз: участок земли растягивают в стороны, показывая его площадь.\nКак запомнить: έκταση — протяжённость, «растянутая» площадь.",
+      "imagePrompt": "A simple educational illustration of a rectangular plot of land being stretched sideways with arrows, emphasizing its area and extent, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/3ef0be066d78.jpg",
+      "audio": "audio/3ef0be066d78.mp3"
+    },
+    {
+      "original": "εκτεταμένος",
+      "translation": "обширный, распространённый",
+      "mnemonic": "Созвучие: εκτε- напоминает «экстенсивный» — большой по охвату, обширный.\nОбраз: пятно на карте растянулось и покрыло большую область.\nЭтимология: εκ- «наружу» + τείνω «тянуть» → растянутый, расширенный.\nКак запомнить: «эксте-» ведёт к большому охвату.",
+      "imagePrompt": "Educational illustration of a simple map with one colored area stretched across and covering a large region, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/c2e4ecdbe706.jpg",
+      "audio": "audio/c2e4ecdbe706.mp3"
+    },
+    {
+      "original": "ελέγχω",
+      "translation": "проверять, контролировать",
+      "mnemonic": "Созвучие: э-ЛЕН-хо → «лень»; проверка ловит лень.\nОбраз: начальник с планшетом проверяет, не ленится ли работник.\nКак запомнить: «лен» внутри слова ведёт к проверке на лень.",
+      "imagePrompt": "A simple educational cartoon illustration of a supervisor with a clipboard checking whether an office worker is working instead of being lazy, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/4358432f05bc.jpg",
+      "audio": "audio/4358432f05bc.mp3"
+    },
+    {
+      "original": "ελεύθερος",
+      "translation": "свободный",
+      "mnemonic": "Созвучие: э-ЛЕВ-терос — лев на свободе.\nОбраз: лев выходит из открытой клетки в поле.\nКак запомнить: «лев» в середине слова ведёт к образу свободного льва.",
+      "imagePrompt": "Educational illustration of a lion calmly walking out of an open cage into a wide open field, symbolizing freedom, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/886a5b32d120.jpg",
+      "audio": "audio/886a5b32d120.mp3"
+    },
+    {
+      "original": "ελιά",
+      "translation": "оливка; оливковое дерево",
+      "mnemonic": "Этимология: елей — церковное оливковое масло; ελιά того же корня: оливка/олива.\nОбраз: оливка капает маслом в маленькую чашу с елеем.\nКак запомнить: ελιά → елей → оливковое масло → оливка.",
+      "imagePrompt": "An educational illustration of a single green olive dripping olive oil into a small simple bowl of oil, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/46d6a3a21b40.jpg",
+      "audio": "audio/46d6a3a21b40.mp3"
+    },
+    {
+      "original": "εμπορικός",
+      "translation": "коммерческий, торговый",
+      "mnemonic": "Этимология: emporium — торговый дом/магазин; тот же корень, что в εμπορικός.\nОбраз: торговый зал с товарами и кассой — всё связано с коммерцией.\nКак запомнить: emporium ведёт к торговле, значит εμπορικός — торговый, коммерческий.",
+      "imagePrompt": "Educational illustration of a clean commercial shopping area with shelves of goods, price tags, and a checkout counter, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/1d30c9be77f9.jpg",
+      "audio": "audio/1d30c9be77f9.mp3"
+    },
+    {
+      "original": "εναλλάσσεται",
+      "translation": "чередуется",
+      "mnemonic": "Этимология: άλλος — «другой», αλλάζω — «менять»; εναλλάσσεται — «сменяется другим».\nОбраз: на светофоре красный и зелёный по очереди сменяют друг друга.\nКак запомнить: «алл/аллаз» ведёт к смене: оно чередуется.",
+      "imagePrompt": "A simple educational illustration of a traffic light with red and green lights taking turns, shown with subtle circular arrows, clean composition, simple background, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/6434f3bda8a7.jpg",
+      "audio": "audio/6434f3bda8a7.mp3"
     }
   ]
 }
