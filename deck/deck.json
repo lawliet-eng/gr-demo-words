@@ -180,28 +180,6 @@
       "audio": "audio/4ffcc13c08a4.mp3"
     },
     {
-      "original": "απέχει",
-      "translation": "находится на расстоянии, воздерживается",
-      "mnemonic": "Этимология: από — «от» + έχω — «держу/имею»: держу себя от чего-то.\nОбраз: человек держит предмет от себя на вытянутой руке — есть дистанция.\nКак запомнить: «от + держу» ведёт к «находится на расстоянии/воздерживается».",
-      "imagePrompt": "A simple educational illustration of a cartoon person holding an object at arm's length away from their body, clearly showing distance, simple background, clean composition, no text.",
-      "tags": [
-        "география"
-      ],
-      "image": "images/0b7a698a50e5.jpg",
-      "audio": "audio/0b7a698a50e5.mp3"
-    },
-    {
-      "original": "αποτελεί",
-      "translation": "составляет",
-      "mnemonic": "Созвучие: «а по телу» — по телу видно, из каких частей оно состоит.\nОбраз: тело собрано из крупных пазлов, каждый кусок составляет целое.\nКак запомнить: «апотели» → «по телу» → части составляют целое.",
-      "imagePrompt": "Educational illustration of a simple human body silhouette assembled from large puzzle pieces, showing separate parts forming one whole, simple background, clean composition, no text.",
-      "tags": [
-        "география"
-      ],
-      "image": "images/53b8131bcf86.jpg",
-      "audio": "audio/53b8131bcf86.mp3"
-    },
-    {
       "original": "βάση",
       "translation": "основа; база",
       "mnemonic": "Этимология: βάση родственно «база» и English basis: основа, опора.\nОбраз: Здание стоит на прочной базе-основании.\nКак запомнить: «база/basis» сразу ведёт к значению «основа».",
@@ -301,17 +279,6 @@
       "audio": "audio/62e6a348fb08.mp3"
     },
     {
-      "original": "βρίσκεται",
-      "translation": "находится",
-      "mnemonic": "Этимология: βρίσκω — находить; βρίσκομαι — находиться.\nКак запомнить: корень βρίσκ- ведёт к «найти», форма βρίσκεται — «он/она/оно находится».",
-      "imagePrompt": "Educational illustration of a simple map with a red location pin marking where a small house is located, clean composition, simple background, no text.",
-      "tags": [
-        "география"
-      ],
-      "image": "images/6096ebf82cb8.jpg",
-      "audio": "audio/6096ebf82cb8.mp3"
-    },
-    {
       "original": "βροχόπτωση",
       "translation": "выпадение осадков",
       "mnemonic": "Этимология: βροχή = дождь, πτώση = падение; вместе — «падение дождя».\nОбраз: из облака прямо вниз падает плотная стена дождя.\nКак запомнить: дождь + падение ведут к «выпадению осадков».",
@@ -376,17 +343,6 @@
       ],
       "image": "images/5f3eda2d84d7.jpg",
       "audio": "audio/5f3eda2d84d7.mp3"
-    },
-    {
-      "original": "δέχεται",
-      "translation": "он/она/оно принимает",
-      "mnemonic": "Этимология: δεχ- — основа δέχομαι «принимать».\nКак запомнить: δέχεται = δεχ- + -εται: «он/она принимает».",
-      "imagePrompt": "Educational illustration of a person calmly accepting a small offered gift with open hands, simple background, clean composition, no text.",
-      "tags": [
-        "география"
-      ],
-      "image": "images/0ee6b6500519.jpg",
-      "audio": "audio/0ee6b6500519.mp3"
     },
     {
       "original": "δημητριακά",
@@ -541,17 +497,6 @@
       ],
       "image": "images/1d30c9be77f9.jpg",
       "audio": "audio/1d30c9be77f9.mp3"
-    },
-    {
-      "original": "εναλλάσσεται",
-      "translation": "чередуется",
-      "mnemonic": "Этимология: άλλος — «другой», αλλάζω — «менять»; εναλλάσσεται — «сменяется другим».\nОбраз: на светофоре красный и зелёный по очереди сменяют друг друга.\nКак запомнить: «алл/аллаз» ведёт к смене: оно чередуется.",
-      "imagePrompt": "A simple educational illustration of a traffic light with red and green lights taking turns, shown with subtle circular arrows, clean composition, simple background, no text.",
-      "tags": [
-        "география"
-      ],
-      "image": "images/6434f3bda8a7.jpg",
-      "audio": "audio/6434f3bda8a7.mp3"
     },
     {
       "original": "ενώ",
@@ -717,17 +662,6 @@
       ],
       "image": "images/bbbce16b68aa.jpg",
       "audio": "audio/bbbce16b68aa.mp3"
-    },
-    {
-      "original": "καλλιεργούνται",
-      "translation": "выращиваются",
-      "mnemonic": "Этимология: καλλι- как в «каллиграфия» — «красиво/хорошо», έργο — «работа»: хорошая работа с землёй → выращивание.\nОбраз: На грядке за растениями аккуратно ухаживают, и они выращиваются.",
-      "imagePrompt": "Educational illustration of a neat garden bed where hands carefully water and tend young green plants, showing that the plants are being cultivated, simple background, clean composition, no text.",
-      "tags": [
-        "география"
-      ],
-      "image": "images/8a5a06871327.jpg",
-      "audio": "audio/8a5a06871327.mp3"
     },
     {
       "original": "καλύπτω",
@@ -937,6 +871,72 @@
       ],
       "image": "images/6f28a0214897.jpg",
       "audio": "audio/6f28a0214897.mp3"
+    },
+    {
+      "original": "απέχω",
+      "translation": "воздерживаться, держаться в стороне",
+      "mnemonic": "Этимология: από «от» + έχω «держу/имею» → «держу от себя».\nОбраз: человек стоит в стороне от компании и не берёт угощение.\nКак запомнить: «от + держу» ведёт к смыслу «держаться в стороне, воздерживаться».",
+      "imagePrompt": "Educational illustration, simple background, clean composition. A simple cartoon person standing a little apart from a friendly group, politely raising a hand to refuse a slice of cake. No text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/7db199314a4d.jpg",
+      "audio": "audio/7db199314a4d.mp3"
+    },
+    {
+      "original": "αποτελώ",
+      "translation": "составлять; являться",
+      "mnemonic": "Созвучие: «а по телу» — по телу видно, из каких частей оно состоит.\nОбраз: тело собрано из отдельных деталей, которые вместе составляют целое.\nКак запомнить: «по телу» → состоит из частей → αποτελώ = составлять.",
+      "imagePrompt": "Educational illustration of a simple human body silhouette made of separate puzzle pieces, showing that the whole is composed of parts, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/c2bd5468aaa6.jpg",
+      "audio": "audio/c2bd5468aaa6.mp3"
+    },
+    {
+      "original": "βρίσκομαι",
+      "translation": "я нахожусь",
+      "mnemonic": "Этимология: βρίσκω — «нахожу»; βρίσκομαι — «нахожусь».\nКак запомнить: общий корень βρίσκ- связывает «найти» и «находиться».",
+      "imagePrompt": "Educational illustration of a simple character standing at a marked spot on a map, showing the idea of being located somewhere, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/b425b32be256.jpg",
+      "audio": "audio/b425b32be256.mp3"
+    },
+    {
+      "original": "δέχομαι",
+      "translation": "я принимаю, получаю",
+      "mnemonic": "Созвучие: δέχομαι ≈ «дЭхо мне»: эхо принимает звук и возвращает его мне.\nОбраз: В горах крик летит в скалу, и эхо словно принимает его.\nКак запомнить: «эхо» внутри слова ведёт к идее принять/получить сигнал.",
+      "imagePrompt": "Educational illustration, simple background, clean composition: in the mountains, a simple cartoon person shouts toward a cliff, visible sound waves travel to the rock and bounce back as an echo. No text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/f02a4f1258de.jpg",
+      "audio": "audio/f02a4f1258de.mp3"
+    },
+    {
+      "original": "εναλλάσσομαι",
+      "translation": "сменяться, чередоваться",
+      "mnemonic": "Этимология: άλλος = «другой»; αλλάσσω = «меняю». εναλλάσσομαι — сменяюсь с другим.\nОбраз: два человека по очереди садятся на один стул: один встал, другой сел.\nКак запомнить: «другой + менять» ведёт к «чередоваться, сменяться».",
+      "imagePrompt": "Educational illustration, simple background, clean composition. Two simple non-photorealistic people taking turns sitting on one chair: one person stands up while the other sits down, showing alternation. No text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/fb6cf6856c1b.jpg",
+      "audio": "audio/fb6cf6856c1b.mp3"
+    },
+    {
+      "original": "καλλιεργώ",
+      "translation": "возделывать, выращивать; развивать",
+      "mnemonic": "Этимология: καλλι- как в «каллиграфия» — красивый; έργο — работа.\nОбраз: садовник красиво и аккуратно обрабатывает грядку, чтобы растения росли.\nКак запомнить: «красивая работа» с землёй ведёт к значению «возделывать, выращивать».",
+      "imagePrompt": "Educational illustration of a gardener carefully cultivating a neat garden bed so young plants grow, simple background, clean composition, no text.",
+      "tags": [
+        "география"
+      ],
+      "image": "images/7c2287550398.jpg",
+      "audio": "audio/7c2287550398.mp3"
     }
   ]
 }
