@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "original": "Αίγυπτος",
+      "translation": "Египет",
+      "mnemonic": "Созвучие: «Эгиптос» почти как «Египет».\nОбраз: египетские пирамиды в пустыне.\nКак запомнить: Αίγυπτος звучанием ведёт прямо к «Египет».",
+      "imagePrompt": "Educational illustration of Egyptian pyramids and a sphinx in a desert under a clear sky, simple background, clean composition, no text.",
+      "tags": [],
+      "image": "images/4b3eb98d244d.jpg",
+      "audio": "audio/4b3eb98d244d.mp3"
+    },
+    {
+      "original": "ακολούθως",
+      "translation": "затем, следующим образом",
+      "mnemonic": "Этимология: ακολουθώ — «следовать»; ακολούθως — «следуя далее».\nКак запомнить: корень «следовать» ведёт к значению «затем, следующим образом».",
+      "imagePrompt": "Educational illustration of a simple sequence: three blank cards connected by arrows, with the final card gently highlighted, simple background, clean composition, no text.",
+      "tags": [],
+      "image": "images/37d13a2edf32.jpg",
+      "audio": "audio/37d13a2edf32.mp3"
+    },
+    {
+      "original": "ακόμα",
+      "translation": "ещё, всё ещё",
+      "mnemonic": "Созвучие: «а кома» — человек всё ещё в коме: состояние продолжается.\nОбраз: На календаре идут дни, а человек всё ещё спит.\nКак запомнить: «а кома» тянется дальше → ακόμα = ещё/всё ещё.",
+      "imagePrompt": "Educational illustration, clean composition, simple background: a cartoon sleeping person in a hospital bed with a calendar beside the bed showing many days passing, conveying that the situation is still continuing. No text.",
+      "tags": [],
+      "image": "images/d5a033f9be36.jpg",
+      "audio": "audio/d5a033f9be36.mp3"
+    },
+    {
+      "original": "άκρο",
+      "translation": "край, конец",
+      "mnemonic": "Этимология: акро- в «акробат» и «акрополь» связан с верхом/крайним положением.\nКак запомнить: άκρο = крайняя точка: край, конец, вершина.",
+      "imagePrompt": "Educational illustration of the edge of a cliff and the end point of a path, simple background, clean composition, no text.",
+      "tags": [],
+      "image": "images/08d3e60fd4b4.jpg",
+      "audio": "audio/08d3e60fd4b4.mp3"
+    },
+    {
+      "original": "ακρωτήριο",
+      "translation": "мыс",
+      "mnemonic": "Созвучие: «акро-территория» — край территории у моря.\nЭтимология: ακρο-/акро- = край, вершина; ср. «акрополь».\nОбраз: узкий край суши выдаётся в море.\nКак запомнить: край территории у моря → мыс.",
+      "imagePrompt": "A narrow piece of land jutting out into the sea, educational illustration, simple background, clean composition, no text.",
+      "tags": [],
+      "image": "images/24093c264df8.jpg",
+      "audio": "audio/24093c264df8.mp3"
+    }
+  ]
+}
